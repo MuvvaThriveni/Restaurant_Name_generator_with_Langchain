@@ -1,0 +1,5 @@
+pycountry
+langchain==0.0.284
+python-dotenv==1.0.0
+streamlit==1.22.0
+OpenAI == 0.28.0
